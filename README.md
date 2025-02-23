@@ -1,1 +1,1 @@
-# Tools for old iphones
+# Tools for iOS devices
